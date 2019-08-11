@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Enemyx</string>
+
+    <string name="data_security">Data security</string>
+    <string name="data_security_description">Access to your list of enemies is carried out only after entering the password</string>
+
+    <string name="export_database">Export</string>
+
+    <string name="dark_theme">Dark theme</string>
+    <string name="dark_theme_description">A dark theme is available in the application for free</string>
+    <string name="export_database_description">"The application allows you to export a database with your enemies in
+        PDF\n "
+    </string>
+</resources>
